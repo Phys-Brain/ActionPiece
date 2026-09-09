@@ -28,5 +28,5 @@ Ranks are normalized within each comparison cohort; color indicates the benchmar
 | VLA-Arena L2 | 29.45% |
 | VLA-Arena overall | 51.45% |
 
-LIBERO-Plus demonstrations are excluded from policy training. SimplerEnv reports the highest of five independent 24-episode repeats per task, macro-averaged over four tasks. VLA-Arena averages 11 task suites equally at each level and all 33 suite–level cells overall. The project page includes the full comparisons, with updated LingBot-VLA and Motus results.
+LIBERO-Plus demonstrations are excluded from policy training. VLA-Arena averages 11 task suites equally at each level and all 33 suite–level cells overall. The project page includes the full comparisons, with updated LingBot-VLA and Motus results.
 
