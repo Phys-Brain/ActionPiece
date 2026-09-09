@@ -2,8 +2,6 @@
 
 **Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models**
 
-[Project page source](page/) · **Code: Coming Soon** · **Paper: Coming Soon** · **Model: Coming Soon**
-
 ## Abstract
 
 Action reconstruction fidelity and physical consistency are both important for closed-loop robot control. Across 61 matched tokenizer–benchmark evaluations, both properties are associated with policy success, while neither alone fully explains the observed performance. ActionPiece achieves 94.80% on LIBERO, 68.77% on unseen LIBERO-Plus, 71.9% on SimplerEnv, and 51.45% mean success across VLA-Arena L0–L2.
