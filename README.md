@@ -30,5 +30,3 @@ Ranks are normalized within each comparison cohort; color indicates the benchmar
 
 LIBERO-Plus demonstrations are excluded from policy training. SimplerEnv reports the highest of five independent 24-episode repeats per task, macro-averaged over four tasks. VLA-Arena averages 11 task suites equally at each level and all 33 suite–level cells overall. The project page includes the full comparisons, with updated LingBot-VLA and Motus results.
 
-
-Layout inspired by the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template) and [Nerfies](https://nerfies.github.io/).
