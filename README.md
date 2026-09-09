@@ -12,7 +12,7 @@ Action reconstruction fidelity and physical consistency are both important for c
 
 **Fidelity and physical consistency both matter.** Both are positively associated with closed-loop success across matched evaluations. Neither property alone fully determines performance.
 
-![Fidelity and physical consistency](page/assets/fig1.svg)
+![Fidelity and physical consistency](docs/assets/fig1.svg)
 
 Ranks are normalized within each comparison cohort; color indicates the benchmark. These associations do not establish causation.
 
